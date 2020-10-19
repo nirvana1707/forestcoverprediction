@@ -5,3 +5,8 @@ The competition datasets comes from a study conducted in four wilderness areas w
 
 The data is in raw form and contains categorical data such as wilderness areas and soil type.
 
+Cover Types:
+![alt text](https://github.com/nirvana1707/forestcoverprediction/blob/main/images/cover_type.jpg)
+
+Sample EDA snapshots:
+![alt text](https://github.com/nirvana1707/forestcoverprediction/blob/main/images/heatmap.png)
